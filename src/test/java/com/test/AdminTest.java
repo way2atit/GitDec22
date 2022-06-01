@@ -9,7 +9,7 @@ public class AdminTest {
 	}
 	
 	
-	public void adminTest-02()
+	public void adminTest02()
 	{
 		System.out.println("Admin Test Call --server");
 	}
