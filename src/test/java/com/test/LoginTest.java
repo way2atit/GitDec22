@@ -15,7 +15,7 @@ public class LoginTest {
 	
 	
 	
-	public void loginTest--01()
+	public void loginTest01()
 	{
 		System.out.println("LoginTest Call");
 	}
